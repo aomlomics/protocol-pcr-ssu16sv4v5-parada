@@ -2,12 +2,12 @@
 # MIOP terms
 methodology_category: omics analysis
 project: NOAA Atlantic Oceanographic and Meteorological Laboratory Omics Program Protocols
-purpose: PCR [OBI:0000415]
-analyses: PCR [OBI:0000415]
+purpose: amplicon sequencing assay [OBI:0002767] | polymerase chain reaction assay [OBI:0002692]
+analyses: amplicon sequencing assay [OBI:0002767] | polymerase chain reaction assay [OBI:0002692]
 geographic_location: Atlantic Ocean [GAZ:00000344], Gulf of Mexico [GAZ:00002853]
-broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
-local_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
-environmental_medium: sea water [ENVO:00002149], polymerase chain reaction [OBI:0000415]
+broad_scale_environmental_context: marine biome [ENVO:00000447]
+local_environmental_context: marine pelagic zone [ENVO:00000208], marine benthic biome [ENVO:01000024]
+environmental_medium: seawater [ENVO:01001964]
 target: 16S [NCIT:C105370]
 creator: Luke Thompson, Sean Anderson
 materials_required: vortexer [OBI:0400118], PCR instrument [OBI:0000989], agarose gel electrophoresis system [OBI:0001134]
