@@ -1,7 +1,7 @@
 ---
 # MIOP terms
 methodology_category: omics analysis
-project: NOAA Atlantic Oceanographic and Meteorological Laboratory OMICS Lab Protocols
+project: NOAA Atlantic Oceanographic and Meteorological Laboratory Omics Program Protocols
 purpose: PCR [OBI:0000415]
 analyses: PCR [OBI:0000415]
 geographic_location: Atlantic Ocean [GAZ:00000344], Gulf of Mexico [GAZ:00002853]
