@@ -1,6 +1,6 @@
 ---
 # MIOP terms
-methodology_category: Omics Analysis
+methodology_category: omics analysis
 project: NOAA Atlantic Oceanographic and Meteorological Laboratory OMICS Lab Protocols
 purpose: PCR [OBI:0000415]
 analyses: PCR [OBI:0000415]
